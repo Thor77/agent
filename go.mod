@@ -610,3 +610,5 @@ exclude (
 )
 
 replace github.com/github/smimesign => github.com/grafana/smimesign v0.2.1-0.20220408144937-2a5adf3481d3
+
+replace github.com/open-telemetry/opentelemetry-collector-contrib => github.com/ptodev/opentelemetry-collector-contrib v1.0.0
